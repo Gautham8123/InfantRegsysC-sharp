@@ -1,0 +1,44 @@
+C:/Users/Loui Jojan/source/repos/StudentWebAPI/StudentWebAPI/bin/Debug/netcoreapp2.0/StudentWebAPI.deps.json
+C:/Users/Loui Jojan/source/repos/StudentWebAPI/StudentWebAPI/bin/Debug/netcoreapp2.0/StudentWebAPI.runtimeconfig.json
+C:/Users/Loui Jojan/source/repos/StudentWebAPI/StudentWebAPI/bin/Debug/netcoreapp2.0/StudentWebAPI.runtimeconfig.dev.json
+C:/Users/Loui Jojan/source/repos/StudentWebAPI/StudentWebAPI/bin/Debug/netcoreapp2.0/StudentWebAPI.dll
+C:/Users/Loui Jojan/source/repos/StudentWebAPI/StudentWebAPI/bin/Debug/netcoreapp2.0/StudentWebAPI.pdb
+C:/Users/Loui Jojan/source/repos/StudentWebAPI/StudentWebAPI/obj/Debug/netcoreapp2.0/StudentWebAPI.csprojResolveAssemblyReference.cache
+C:/Users/Loui Jojan/source/repos/StudentWebAPI/StudentWebAPI/obj/Debug/netcoreapp2.0/StudentWebAPI.csproj.CoreCompileInputs.cache
+C:/Users/Loui Jojan/source/repos/StudentWebAPI/StudentWebAPI/obj/Debug/netcoreapp2.0/StudentWebAPI.AssemblyInfoInputs.cache
+C:/Users/Loui Jojan/source/repos/StudentWebAPI/StudentWebAPI/obj/Debug/netcoreapp2.0/StudentWebAPI.AssemblyInfo.cs
+C:/Users/Loui Jojan/source/repos/StudentWebAPI/StudentWebAPI/obj/Debug/netcoreapp2.0/StudentWebAPI.dll
+C:/Users/Loui Jojan/source/repos/StudentWebAPI/StudentWebAPI/obj/Debug/netcoreapp2.0/StudentWebAPI.pdb
+T:/Deakin T3 2017/PM/StudentWebAPI/StudentWebAPI/bin/Debug/netcoreapp2.0/StudentWebAPI.deps.json
+T:/Deakin T3 2017/PM/StudentWebAPI/StudentWebAPI/bin/Debug/netcoreapp2.0/StudentWebAPI.runtimeconfig.json
+T:/Deakin T3 2017/PM/StudentWebAPI/StudentWebAPI/bin/Debug/netcoreapp2.0/StudentWebAPI.runtimeconfig.dev.json
+T:/Deakin T3 2017/PM/StudentWebAPI/StudentWebAPI/bin/Debug/netcoreapp2.0/StudentWebAPI.dll
+T:/Deakin T3 2017/PM/StudentWebAPI/StudentWebAPI/bin/Debug/netcoreapp2.0/StudentWebAPI.pdb
+T:/Deakin T3 2017/PM/StudentWebAPI/StudentWebAPI/obj/Debug/netcoreapp2.0/StudentWebAPI.csprojResolveAssemblyReference.cache
+T:/Deakin T3 2017/PM/StudentWebAPI/StudentWebAPI/obj/Debug/netcoreapp2.0/StudentWebAPI.csproj.CoreCompileInputs.cache
+T:/Deakin T3 2017/PM/StudentWebAPI/StudentWebAPI/obj/Debug/netcoreapp2.0/StudentWebAPI.AssemblyInfoInputs.cache
+T:/Deakin T3 2017/PM/StudentWebAPI/StudentWebAPI/obj/Debug/netcoreapp2.0/StudentWebAPI.AssemblyInfo.cs
+T:/Deakin T3 2017/PM/StudentWebAPI/StudentWebAPI/obj/Debug/netcoreapp2.0/StudentWebAPI.dll
+T:/Deakin T3 2017/PM/StudentWebAPI/StudentWebAPI/obj/Debug/netcoreapp2.0/StudentWebAPI.pdb
+/mnt/t/Deakin/PM/StudentWebAPI/StudentWebAPI/bin/Debug/netcoreapp2.0/StudentWebAPI.deps.json
+/mnt/t/Deakin/PM/StudentWebAPI/StudentWebAPI/bin/Debug/netcoreapp2.0/StudentWebAPI.runtimeconfig.json
+/mnt/t/Deakin/PM/StudentWebAPI/StudentWebAPI/bin/Debug/netcoreapp2.0/StudentWebAPI.runtimeconfig.dev.json
+/mnt/t/Deakin/PM/StudentWebAPI/StudentWebAPI/bin/Debug/netcoreapp2.0/StudentWebAPI.dll
+/mnt/t/Deakin/PM/StudentWebAPI/StudentWebAPI/bin/Debug/netcoreapp2.0/StudentWebAPI.pdb
+/mnt/t/Deakin/PM/StudentWebAPI/StudentWebAPI/obj/Debug/netcoreapp2.0/StudentWebAPI.csprojResolveAssemblyReference.cache
+/mnt/t/Deakin/PM/StudentWebAPI/StudentWebAPI/obj/Debug/netcoreapp2.0/StudentWebAPI.csproj.CoreCompileInputs.cache
+/mnt/t/Deakin/PM/StudentWebAPI/StudentWebAPI/obj/Debug/netcoreapp2.0/StudentWebAPI.AssemblyInfoInputs.cache
+/mnt/t/Deakin/PM/StudentWebAPI/StudentWebAPI/obj/Debug/netcoreapp2.0/StudentWebAPI.AssemblyInfo.cs
+/mnt/t/Deakin/PM/StudentWebAPI/StudentWebAPI/obj/Debug/netcoreapp2.0/StudentWebAPI.dll
+/mnt/t/Deakin/PM/StudentWebAPI/StudentWebAPI/obj/Debug/netcoreapp2.0/StudentWebAPI.pdb
+T:\Deakin\PM\StudentWebAPI\StudentWebAPI\bin\Debug\netcoreapp2.0\StudentWebAPI.deps.json
+T:\Deakin\PM\StudentWebAPI\StudentWebAPI\bin\Debug\netcoreapp2.0\StudentWebAPI.runtimeconfig.json
+T:\Deakin\PM\StudentWebAPI\StudentWebAPI\bin\Debug\netcoreapp2.0\StudentWebAPI.runtimeconfig.dev.json
+T:\Deakin\PM\StudentWebAPI\StudentWebAPI\bin\Debug\netcoreapp2.0\StudentWebAPI.dll
+T:\Deakin\PM\StudentWebAPI\StudentWebAPI\bin\Debug\netcoreapp2.0\StudentWebAPI.pdb
+T:\Deakin\PM\StudentWebAPI\StudentWebAPI\obj\Debug\netcoreapp2.0\StudentWebAPI.csprojResolveAssemblyReference.cache
+T:\Deakin\PM\StudentWebAPI\StudentWebAPI\obj\Debug\netcoreapp2.0\StudentWebAPI.csproj.CoreCompileInputs.cache
+T:\Deakin\PM\StudentWebAPI\StudentWebAPI\obj\Debug\netcoreapp2.0\StudentWebAPI.AssemblyInfoInputs.cache
+T:\Deakin\PM\StudentWebAPI\StudentWebAPI\obj\Debug\netcoreapp2.0\StudentWebAPI.AssemblyInfo.cs
+T:\Deakin\PM\StudentWebAPI\StudentWebAPI\obj\Debug\netcoreapp2.0\StudentWebAPI.dll
+T:\Deakin\PM\StudentWebAPI\StudentWebAPI\obj\Debug\netcoreapp2.0\StudentWebAPI.pdb

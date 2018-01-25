@@ -1,0 +1,12 @@
+T:\Deakin T3 2017\PM\StudentWebAPI\StudentWebAPI\bin\Any CPU\Release\netcoreapp2.0\StudentWebAPI.deps.json
+T:\Deakin T3 2017\PM\StudentWebAPI\StudentWebAPI\bin\Any CPU\Release\netcoreapp2.0\StudentWebAPI.runtimeconfig.json
+T:\Deakin T3 2017\PM\StudentWebAPI\StudentWebAPI\bin\Any CPU\Release\netcoreapp2.0\StudentWebAPI.runtimeconfig.dev.json
+T:\Deakin T3 2017\PM\StudentWebAPI\StudentWebAPI\bin\Any CPU\Release\netcoreapp2.0\StudentWebAPI.dll
+T:\Deakin T3 2017\PM\StudentWebAPI\StudentWebAPI\bin\Any CPU\Release\netcoreapp2.0\StudentWebAPI.pdb
+T:\Deakin T3 2017\PM\StudentWebAPI\StudentWebAPI\obj\Any CPU\Release\netcoreapp2.0\StudentWebAPI.csproj.CoreCompileInputs.cache
+T:\Deakin T3 2017\PM\StudentWebAPI\StudentWebAPI\obj\Any CPU\Release\netcoreapp2.0\StudentWebAPI.AssemblyInfoInputs.cache
+T:\Deakin T3 2017\PM\StudentWebAPI\StudentWebAPI\obj\Any CPU\Release\netcoreapp2.0\StudentWebAPI.AssemblyInfo.cs
+T:\Deakin T3 2017\PM\StudentWebAPI\StudentWebAPI\obj\Any CPU\Release\netcoreapp2.0\StudentWebAPI.dll
+T:\Deakin T3 2017\PM\StudentWebAPI\StudentWebAPI\obj\Any CPU\Release\netcoreapp2.0\StudentWebAPI.pdb
+T:\Deakin\PM\StudentWebAPI\StudentWebAPI\obj\Any CPU\Release\netcoreapp2.0\StudentWebAPI.dll
+T:\Deakin\PM\StudentWebAPI\StudentWebAPI\obj\Any CPU\Release\netcoreapp2.0\StudentWebAPI.pdb
